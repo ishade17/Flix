@@ -54,7 +54,7 @@ I had a bug for linking the Movie Grid tab to the Move Details tab.
 
 List an 3rd party libraries, icons, graphics, or other assets you used in your app.
 
-- [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
+- [AFNetworking](http://g.recordit.co/eKkhZ4THjC.gif) - networking task library
 
 ## License
 
